@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Neelam 👋
 
-<!--
-**neelam1995/neelam1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Senior Software Engineer | Full-Stack Developer | UI Platform Architect**  
+🛠️ JavaScript | React | Node.js | SDUI | System Design
 
-Here are some ideas to get you started:
+I'm passionate about building scalable systems and dynamic UI platforms. With 8+ years of experience, I specialize in reusable SDKs, server-driven UI frameworks, and cloud-native app design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect with me
+
+- [LinkedIn](https://linkedin.com/in/neelam-09)
+- [Email](mailto:neelamkumari09091995@gmail.com)
